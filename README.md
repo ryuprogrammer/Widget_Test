@@ -1,0 +1,2 @@
+# Widget_Test
+Widgetで擬似的にアニメーションを表示させたい
